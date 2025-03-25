@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.d9af8789.css",
-    "main.js": "/static/js/main.e6a59cdf.js",
-    "static/js/488.44297539.chunk.js": "/static/js/488.44297539.chunk.js",
-    "static/media/logoweb.png": "/static/media/logoweb.d7c2a47acbf3df4c69e4.png",
-    "index.html": "/index.html",
-    "main.d9af8789.css.map": "/static/css/main.d9af8789.css.map",
-    "main.e6a59cdf.js.map": "/static/js/main.e6a59cdf.js.map",
-    "488.44297539.chunk.js.map": "/static/js/488.44297539.chunk.js.map"
+    "main.css": "/challengelt/static/css/main.d9af8789.css",
+    "main.js": "/challengelt/static/js/main.32288cae.js",
+    "static/js/488.44297539.chunk.js": "/challengelt/static/js/488.44297539.chunk.js",
+    "static/media/logoweb.png": "/challengelt/static/media/logoweb.d7c2a47acbf3df4c69e4.png",
+    "index.html": "/challengelt/index.html",
+    "main.d9af8789.css.map": "/challengelt/static/css/main.d9af8789.css.map",
+    "main.32288cae.js.map": "/challengelt/static/js/main.32288cae.js.map",
+    "488.44297539.chunk.js.map": "/challengelt/static/js/488.44297539.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d9af8789.css",
-    "static/js/main.e6a59cdf.js"
+    "static/js/main.32288cae.js"
   ]
 }
